@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/00bc1bdc3ea94c1b2adc0.jpg">
+  <img src=".jpg">
 </p>
 
 The Fastest multi spambot of Telegram🤞🤞 
