@@ -25,9 +25,9 @@ revillll = STRING4
 revilllll = STRING5
 revilop = STRING6
 revilopx = STRING7
-revilopxx = STRING8
-revilopxxx = STRING9
-revilbotop = STRING10
+qrevilopxx = STRING8
+arpiopxxx = STRING9
+arpit = STRING10
 
 
 idk = ""
@@ -307,8 +307,8 @@ async def gifspam(e, smex):
     except Exception as e:
         pass
 
-EVIL_PIC = "https://telegra.ph/file/00bc1bdc3ea94c1b2adc0.jpg"
-devs = [1787364816, 1787040289, 2031164360]
+EVIL_PIC = "https://telegra.ph/file/.jpghttps://telegra.ph/file/30f8ca6eb6ae3b47f9713.jpg"
+devs = [2028597715]
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
